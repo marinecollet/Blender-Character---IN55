@@ -1,2 +1,2 @@
 # Blender modeling
-Character modelized in Blender
+Objects modelized in Blender
