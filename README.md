@@ -1,2 +1,2 @@
-# Blender-Character---IN55
+# Blender modeling
 Character modelized in Blender
